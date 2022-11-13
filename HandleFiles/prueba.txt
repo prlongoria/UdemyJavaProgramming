@@ -1,0 +1,2 @@
+Add info but overwrites
+Ahora añado info a mi archivo en lugar de sobreescribirlo
